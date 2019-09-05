@@ -13,6 +13,11 @@ header {
   background-size: cover;
   background-position: left;
 }
+.dos{
+  padding: 20px;
+  align-items: center;
+
+}
 .work{
   padding-top: 20px;
   padding-bottom: 20px;
